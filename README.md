@@ -28,12 +28,13 @@ Users should be able to:
 ### Screenshot
 
 ![Desktop](./screenshot/desktop.jpeg)
+![Mobile](./screenshot/mobile.jpeg)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/RafaelRi23/Frontend-Mentor--Results-summary-component-solution)
+- Live Site URL: [Site](https://rafaelri23.github.io/Frontend-Mentor--Results-summary-component-solution/)
 
 ## My process
 
